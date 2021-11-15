@@ -9,3 +9,5 @@ Only one scene so far in Season One has shown a serifed Foundation font, when Cl
 <img src="reference-images/Foundation_Serif_cleon_the_painter.jpg" alt="The name of Cleon the 11th is shown on his memorial" title="The serifed letters are rounder and softer than other type shown in the show">
 
 This is one in a series of related fonts based on type designs used on Foundation, including <a href="https://github.com/rsperberg/foundation-logo" title="Jump to Foundation Logo repo">Foundation Logo</a>, <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a>, <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation One repo">Foundation One</a> and the not-yet-begun <a href="https://github.com/rsperberg/foundation-screen" title="Jump to Foundation Screen repo">Foundation Screen</a>.  All use the SIL Open Font License and are hosted here on GitHub.
+
+The project will use the .ifm2archive file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at <a href="https://2ttf.com/" title="Jump to 2ttf.com">2ttf.com</a>.
